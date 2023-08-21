@@ -1,5 +1,5 @@
 import React from "react";
-import CV from  '../../asset/cv.pdf';
+import CV from  '../../asset/vikram.pdf';
 // import './footer.css'
 
 
