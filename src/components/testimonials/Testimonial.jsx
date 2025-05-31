@@ -46,9 +46,9 @@ const Testimonial = () => {
           <div className="client__avatar">
             <img src={AVTR1} alt="" />
           </div>
-          <h5 className="clent__name">Visal Bagrecha</h5>
+          <h5 className="clent__name">Prveen Patel</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, dolore!
+            ARM App is user-friendly and efficient — it made managing my tasks so much easier.
           </small>
         </SwiperSlide>
 
@@ -56,9 +56,9 @@ const Testimonial = () => {
           <div className="client__avatar">
             <img src={AVTR2} alt="" />
           </div>
-          <h5 className="clent__name">Vivek Bishoni</h5>
+          <h5 className="clent__name">Ashok Khichi</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, dolore!
+            Reliable and efficient, the S3 library client simplifies file storage and retrieval with seamless AWS integration.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">

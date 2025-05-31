@@ -37,12 +37,12 @@ const Contact = () => {
             <h5>hellovikram03@gmail.com</h5>
             <a href="mailto:hellovikram03@gmail.com" target="__blank">Send a message</a>
           </article>
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <RiMessengerLine className="contact__option-icons" />
             <h4>Messenger</h4>
             <h5>Vikram kumar</h5>
             <a href="https://m.me/vikram choudhary" target="__blank">Send a message</a>
-          </article>
+          </article> */}
 
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icons" />
