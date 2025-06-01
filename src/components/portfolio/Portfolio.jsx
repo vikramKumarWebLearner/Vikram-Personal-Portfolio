@@ -63,7 +63,7 @@ const Portfolio = () => {
           </div>
         </article>
 
-        <article className="portfolio__item">
+        {/* <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
@@ -94,7 +94,7 @@ const Portfolio = () => {
             <a href="https://github.com/vikramKumarWebLearner/newsletter" className="btn" target="__blank">Github</a>
             <a href="https://dribbble.com/" className="btn btn-primary" target="__blank">Live Demo</a>
           </div>
-        </article>
+        </article> */}
       </div>
     </section>
   )
