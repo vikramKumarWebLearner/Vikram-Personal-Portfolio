@@ -4,7 +4,7 @@ import AVTR1 from '../../asset/avatar1.jpg'
 import AVTR2 from '../../asset/avatar2.jpg'
 import AVTR3 from '../../asset/avatar3.jpg'
 import AVTR4 from '../../asset/avatar4.jpg'
-
+import USERICON from '../../asset/user-icon.png'
 // import Swiper core and required modules
 import { Pagination } from 'swiper'
 import { Swiper, SwiperSlide } from 'swiper/react'
@@ -44,7 +44,7 @@ const Testimonial = () => {
         } */}
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
-            <img src={AVTR1} alt="" />
+            <img src={USERICON} alt="" />
           </div>
           <h5 className="clent__name">Prveen Patel</h5>
           <small className="client__review">
@@ -54,7 +54,7 @@ const Testimonial = () => {
 
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
-            <img src={AVTR2} alt="" />
+            <img src={USERICON} alt="" />
           </div>
           <h5 className="clent__name">Ashok Khichi</h5>
           <small className="client__review">
@@ -63,7 +63,7 @@ const Testimonial = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
-            <img src={AVTR3} alt="" />
+            <img src={USERICON} alt="" />
           </div>
           <h5 className="clent__name">Ashok kumar</h5>
           <small className="client__review">
@@ -72,7 +72,7 @@ const Testimonial = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
-            <img src={AVTR4} alt="" />
+            <img src={USERICON} alt="" />
           </div>
           <h5 className="clent__name">Elien monk</h5>
           <small className="client__review">
