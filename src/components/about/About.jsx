@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Full Stack Developer with expertise in scalable web applications and RESTful API development at Iconflux Technologies Pvt Ltd. Skilled in integrating third-party services and implementing security best practices. Proficient in PHP and Laravel, contributing to project success through effective collaboration and enhanced application functionality.
+            Full Stack Developer with 3+ years of experience in building and maintaining scalable web applications. Proven ability to develop secure, high-performance solutions and contribute to successful project delivery. Strong team player with a focus on clean code, problem-solving, and continuous improvement. Seeking to grow in a dynamic MNC environment with opportunities for learning and innovation.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
