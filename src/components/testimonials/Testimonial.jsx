@@ -65,18 +65,9 @@ const Testimonial = () => {
           <div className="client__avatar">
             <img src={USERICON} alt="" />
           </div>
-          <h5 className="clent__name">Ashok kumar</h5>
+          <h5 className="clent__name">Raju choudhary</h5>
           <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, dolore!
-          </small>
-        </SwiperSlide>
-        <SwiperSlide className="testimonial">
-          <div className="client__avatar">
-            <img src={USERICON} alt="" />
-          </div>
-          <h5 className="clent__name">Elien monk</h5>
-          <small className="client__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, dolore!
+            The ChatApp client is a game-changer for communication, offering seamless messaging and collaboration features.
           </small>
         </SwiperSlide>
       </Swiper>
